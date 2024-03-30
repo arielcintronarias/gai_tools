@@ -3,3 +3,4 @@ The following materials were used in a two-part workshop series titled "*Generat
 * Slide deck adjusted from original provided by DeepLearningAI: [Overview of GAI](https://github.com/arielcintronarias/gai_tools/blob/main/Overview_GAI.pdf)
 * Slide deck about responsible AI: [Responsible AI](https://github.com/arielcintronarias/gai_tools/blob/main/Responsible_AI.pdf)
 * Handout with list of curated GAI tools suitable for K-12 educators: [Curated GAI Tools](https://github.com/arielcintronarias/gai_tools/blob/main/Curated_GAI_Tools.pdf)
+* Video recording (80-minutes): [Video Session II of II](https://youtu.be/bwwARymTi-U)
